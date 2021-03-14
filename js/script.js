@@ -1,7 +1,7 @@
 const btn = document.getElementById('btn')
 
 const saludar = () => {
-    console.log('Hola no consigo hacer esta mierda')
+    console.log('Hola SIII consigo hacer esta mierda')
     alert("Qué pasa Colegas???")
 }
 
